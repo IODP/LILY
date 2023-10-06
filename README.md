@@ -1,3 +1,15 @@
+# Viewing Notebooks
+
+Jupyter Notebooks will render in the browser. Click files with the ".ipynb" extension to view contents.
+
+Alternatively, run notebooks in Jupyter Notebooks or Visual Studio Code with the Jupyter extension. Steps for creating a notebook kernel and installing the necessary packages are in the [Installation](#Installation) section
+
+## AVS
+LILY-AVS.ipynb only uses AVS_DataLITH.csv as input data. All output files are saved the "output" folder.
+
+## RSC
+
+
 # Installation
 
 ### Clone repo from Github
@@ -38,9 +50,5 @@ conda remove --name iodp --all
 ```
 
 
-# Running Notebook
 
-Run LILY-AVS.ipynb in Jupyter Notebooks or Visual Studio Code with the Jupyter extension. Select "iodp" as the notebook kernel.
-
-LILY-AVS.ipynb only uses AVS_DataLITH.csv as input data. All output files are saved the "output" folder.
 
