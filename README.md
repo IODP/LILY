@@ -1,3 +1,7 @@
+# About
+
+This repository is provided as a supplement to the LILY Database, downloadable at https://zenodo.org/record/8408296.
+
 # Viewing Notebooks
 
 Jupyter Notebooks will render in the browser. Click files with the ".ipynb" extension to view contents.
@@ -9,8 +13,11 @@ LILY-AVS.ipynb only uses AVS_DataLITH.csv as input data. All output files are sa
 
 ## RSC
 
+LILY-RSC.ipynb references RSC_DataLITH.csv, it must be manually downloaded from Zenodo.
 
 # Installation
+
+The guide below walks through downloading the git repo from Github and creating a new virtual environment in Python containing the relevant Python packages listed in the requirements.txt file.
 
 ### Clone repo from Github
 Run command from shell. Git commandline tools must be installed.
