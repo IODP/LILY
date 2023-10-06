@@ -28,7 +28,7 @@ conda create -y --name iodp python=3.9
 conda activate iodp
 
 # install packages listed in requirements.txt. Use full or relative path to requirements file if needed.
-conda pip install -r requirements.txt
+pip install --file requirements.txt
 
 # deactivate environment to return to default base python environment
 conda deactivate 
