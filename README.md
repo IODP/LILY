@@ -13,7 +13,7 @@ LILY-AVS.ipynb only uses AVS_DataLITH.csv as input data. All output files are sa
 
 ## RSC
 
-LILY-RSC.ipynb references RSC_DataLITH.csv, it must be manually downloaded from Zenodo.
+LILY-RSC.ipynb references RSC_DataLITH.csv, it must be manually downloaded from Zenodo. Hvplot plots are saved as html files to be viewed online, e.g. [reflectance L* boxplot](RSC/plots/reflectance_L_boxplot_by_principal_overlain_with_full_lithology.html).
 
 # Installation
 
